@@ -1,7 +1,6 @@
 from seleniumbase import Driver
 import random
 import time
-from PIL import Image
 
 def get_random_ip(file_path):
     with open(file_path, 'r') as file:
