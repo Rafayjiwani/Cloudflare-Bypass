@@ -4,6 +4,9 @@ Certainly! If you're planning to create a GitHub repository for your SeleniumBas
 
 # SeleniumBase Cloudflare Bypass Automation
 
+![demo](https://github.com/Rafayjiwani/Cloudflare-Bypass/assets/51723292/b2b2e151-187a-4f98-8a83-5866dcc49e7a)
+
+
 ## Overview
 This Python script automates the bypassing of Cloudflare protection using SeleniumBase. It accesses a Cloudflare-protected webpage, interacts with its "turnstile," and handles potential challenges, ensuring seamless navigation.
 
