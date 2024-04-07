@@ -13,7 +13,6 @@ This Python script automates the bypassing of Cloudflare protection using Seleni
 - **Automatically Change UserAgent**: It Dynamically Changes the best suited and latest User-Agents for enhanced security.
 - **Dynamic Rendering Support**: Handles websites using client-side rendering or dynamic content loading.
 - **Robust Element Interaction**: Interacts with page elements, including iframes and JavaScript-based challenges.
-- **Easy to Use**: Provides a simplified API, making it suitable for both beginners and experienced developers.
 
 ## Installation
 1. Ensure you have Python installed on your system.
