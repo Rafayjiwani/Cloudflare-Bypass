@@ -1,5 +1,3 @@
-Certainly! If you're planning to create a GitHub repository for your SeleniumBase Cloudflare bypass automation project, here's a template for your README.md file:
-
 ---
 
 # SeleniumBase Cloudflare Bypass Automation
@@ -43,5 +41,3 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize this template according to your project's specific details and requirements. Good luck with your GitHub repository!
